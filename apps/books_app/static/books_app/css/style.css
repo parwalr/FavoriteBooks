@@ -1,0 +1,70 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.login {
+    width: 300px;
+    vertical-align: top; 
+    margin: 20px 100px; 
+}
+
+.register {
+    width: 300px;
+    margin: 20px 100px; 
+}
+
+h1, h4, h3 {
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+.header {
+    border-bottom: black solid;
+    width: 970px;
+    margin: auto; 
+    padding: 10px; 
+}
+
+.header h1 {
+    display: inline-block;
+    margin-right: 550px; 
+}
+
+.container {
+    margin: 10px; 
+}
+
+.bookform {
+    margin-left: 250px; 
+}
+
+.allbooks {
+    vertical-align: top; 
+    margin: 0px 200px;
+}
+
+.favorite {
+    font-style: italic;
+}
+.bookinfo {
+    margin: 20px 250px;
+    width: 300px;  
+}
+
+#Inputtitle {
+    font-size: large; 
+}
+
+#updtebtn {
+    display: inline-block; 
+    margin-left: 140px; 
+}
+
+#delbtn {
+    display: inline-block;
+}
+
+.user {
+    vertical-align: top; 
+    margin-top: 20px; 
+}
